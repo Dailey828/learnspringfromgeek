@@ -1,0 +1,8 @@
+com\aklei\domain\User.class
+com\aklei\dao\UserDao.class
+com\aklei\web\LoginController.class
+com\aklei\dao\LoginLogDao.class
+com\aklei\service\UserService.class
+com\aklei\dao\UserDao$1.class
+com\aklei\domain\LoginLog.class
+com\aklei\web\LoginCommand.class
